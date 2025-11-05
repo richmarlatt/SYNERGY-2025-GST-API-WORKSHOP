@@ -60,7 +60,7 @@ Participants should have familiarity with GoSystem Tax and have the following in
 
 ### 1. Clone or Download this Repository
 ```bash
-git clone https://github.com/[your-username]/synergy-2025-gst-api-workshop.git
+git clone (https://www.postman.com/bliss1041/workspace/synergy-2025-gst-api-workshop.git)
 ```
 Or download as ZIP from the green "Code" button above.
 
@@ -151,22 +151,6 @@ synergy-2025-gst-api-workshop/
 └── README.md
 ```
 
-## 📚 Resources
-
-### Documentation
-- [GoSystem Tax API Documentation](link-to-docs)
-- [Postman Learning Center](https://learning.postman.com/)
-- [Workshop Slides](./resources/slides/)
-
-### Support Channels
-- 💬 Workshop Slack Channel: #synergy2025-gst-api
-- 📧 Email Support: [workshop-support@example.com]
-- 🐛 Issues: Use the [GitHub Issues](https://github.com/[your-username]/synergy-2025-gst-api-workshop/issues) tab
-
-### Additional Learning
-- [API Automation Best Practices](./documentation/best-practices.md)
-- [Troubleshooting Guide](./documentation/troubleshooting.md)
-- [Advanced Scenarios](./templates/)
 
 ## 🤝 Support
 
