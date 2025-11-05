@@ -71,6 +71,7 @@ Or download as ZIP from the green "Code" button above.
 4. Keep the portal open for reference
 
 ### 3. Import Postman Collections
+[Download Collection](https://www.postman.com/bliss1041/workspace/synergy-2025-ai-workshop/request/27943455-804adca0-671d-4d97-9f0e-0bf442355a0d?action=share&creator=27943455&ctx=documentation&active-environment=27943455-05c34662-5f30-4539-b17b-51489f026559)
 1. Open Postman Desktop Application
 2. Click "Import" button
 3. Navigate to `/collections/` folder
